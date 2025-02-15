@@ -1,6 +1,6 @@
 # 1,2주차 회고
 
-![Meow](https://www.google.com/search?q=%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80+%ED%83%80%EC%9D%B4%ED%95%91+%ED%95%98%EB%8A%94+%EC%82%AC%EC%A7%84&oq=%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80+%ED%83%80%EC%9D%B4%ED%95%91+%ED%95%98%EB%8A%94+%EC%82%AC%EC%A7%84&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTQyMDZqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#vhid=7dSDF96m295quM&vssid=_ghiwZ-HMFtf51e8P9KLZMQ_38)
+![타이핑하는 고양이이](https://img.freepik.com/premium-photo/cat-typing-computer-creating-her-blog-hyper-real-hd-4k_964851-133121.jpg?w=1060)
 
 ## 1. 1~2주차 수업을 통해 배운 점
 
