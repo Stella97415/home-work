@@ -1,0 +1,51 @@
+.avatars {
+  border: 1px dashed blue;
+  padding: 100px;
+  /*margin: 20px;*/
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 417px;
+  background-color: white;
+}
+
+.img-box {
+  position: relative;
+  display: inline-block;
+  padding: 20px;
+}
+
+.avatars img {
+  border-radius: 50%;
+  width: 64px;
+  height: 64px;
+}
+
+.circle {
+  position: absolute;
+  right: 20px;
+  bottom: 24px;
+  width: 17.78px;
+  height: 17.78px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.circle_green {
+  position: absolute;
+  right: 21.3px;
+  bottom: 25.5px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #4cfe88;
+}
+
+.circle_white {
+  position: absolute;
+  right: 21.3px;
+  bottom: 25.5px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #dbdbdb;
+}
