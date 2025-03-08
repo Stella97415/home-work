@@ -69,6 +69,66 @@
   }
 }
 
+/*데스크탑 화면*/
+
+@media (min-width: 767px) {
+  .login {
+    --font: 0.875rem;
+    --font-color: #121212;
+    --margin: 1.25rem;
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+    .email {
+      width: 100%;
+
+      input {
+        width: inherit;
+        font-size: var(--font);
+        color: var(--font-color);
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+        height: 2.8125rem;
+        box-sizing: border-box;
+
+        &:focus {
+          background: #e9f0fd;
+          border: #03cf5d; /*적용안됨*/
+        }
+      }
+
+      label {
+        visibility: hidden;
+      }
+    }
+
+    .password {
+      width: 100%;
+
+      input {
+        width: inherit;
+        font-size: var(--font);
+        color: var(--font-color);
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+        height: 2.8125rem;
+        box-sizing: border-box;
+
+        &:focus {
+          border-color: #03cf5d;
+          background: #e9f0fd;
+        }
+      }
+
+      label {
+        visibility: hidden;
+      }
+    }
+  }
+}
+
 .login-button {
   display: flex;
   justify-content: center;

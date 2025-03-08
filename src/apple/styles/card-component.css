@@ -1,0 +1,75 @@
+@import "./reset.css";
+@import "./theme.css";
+@import "./base.css";
+
+.card .black {
+  text-align: center;
+  /* width: 100%;
+  height: 500px; */
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+  /* background-image: url("/src/apple/products/apple_watch.jpeg"); */
+  /* background-repeat: no-repeat;
+  background-size: contain; */
+  h1 {
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+  }
+
+  p {
+    padding-bottom: 10px;
+    color: white;
+  }
+
+  button {
+    padding: 10px;
+    margin: 0 3px;
+    border-radius: 20px;
+
+    &.more {
+      background: blue;
+      color: white;
+      border: 0;
+    }
+
+    &.price {
+      background-color: inherit;
+      color: blue;
+      border: 1.5px solid blue;
+    }
+  }
+}
+
+.card .white {
+  text-align: center;
+
+  h1 {
+    padding: 20px;
+    font-size: 40px;
+    color: black;
+  }
+
+  p {
+    padding-bottom: 10px;
+    color: black;
+  }
+
+  button {
+    padding: 10px;
+    margin: 0 3px;
+    border-radius: 20px;
+
+    &.more {
+      background: black;
+      color: white;
+      border: 0;
+    }
+
+    &.price {
+      background-color: inherit;
+      color: black;
+      border: 1.5px solid black;
+    }
+  }
+}
